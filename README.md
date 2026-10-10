@@ -1,39 +1,39 @@
-README.md curto: título do projeto, nome de apresentação, instruções para abrir, descrição das
-páginas, recursos utilizados e fontes das imagens/mídias. Registre o que foi testado e eventual
-uso de IA.
+# Minha identidade na Web
 
-Titulo: Minha entendidade na web.
+**Nome de apresentação:** Guilherme França
 
-Instruções para abrir:
-Abra o terminal ou prompt de comando e execute o seguinte comando para clonar o repositório na sua máquina:
+## Instruções para abrir
 
-git clone https://github.com/Guifranca222/frontend-pag-pessoal.git
-cd <NOME_DA_PASTA_DO_REPOSITORIO>
-Observação: Substitua as tag <NOME_DA_PASTA_DO_REPOSITORIO> pelo nome da pasta criada após o clone.
-Após finalizar o clone abra o arquivo index.html com seu navegador escolhido.
+Abra o terminal ou prompt de comando e execute os seguintes comandos para clonar o repositório na sua máquina:
 
-Descrição das páginas:
-index.html
-Minha apresentação um pouco da minha jornada no Ti, alguns interesses e objetivos de estudo, também links para minha página do LinkedIn e Github. links para página de projetos e hobbies
+    git clone https://github.com/Guifranca222/frontend-pag-pessoal.git
+    cd frontend-pag-pessoal
 
-pag_projetos.html
-Tem 3 topicos com projetos que ja realizei com o link para o repositorio de cada projeto no github.
+Após finalizar o clone, abra o arquivo `index.html` no navegador de sua preferência.
 
-pag_hobbies.html
-Aqui coloquei imagens dos meus hobbies favoritos.
+**Observação:** Substitua `frontend-pag-pessoal` pelo nome da pasta criada após o clone, caso seja diferente.
 
-Recursos utilizados:
-Utilizei bem pouco de css, apenas para organizar as midias inseridas.
-links externos Github e LinkedIn
-listas não ordenadas e tabela simples
+## Descrição das páginas
 
-fontes da midias:
-Google imagens e uma foto pessoal
+- **`index.html`:** Apresenta um pouco da minha trajetória em TI, alguns interesses e objetivos de estudo. Também contém links para meu LinkedIn, GitHub e páginas de projetos e hobbies.
+- **`pag_projetos.html`:** Apresenta três projetos que já realizei, com links para os respectivos repositórios no GitHub.
+- **`pag_hobbies.html`:** Apresenta imagens dos meus hobbies favoritos.
 
-IA:
-Utilizei IA para me orientar em como organizar as midias na página e algumas dicas de como organizar as divs e titulos h1 e h2
+## Recursos utilizados
 
+- Utilização básica de CSS para organizar as mídias inseridas.
+- Links externos para GitHub e LinkedIn.
+- Listas não ordenadas e tabela simples.
 
-Testes: 
+## Fontes das mídias
 
-Verifiquei se todos os Links externos estão indicando as pastas corretas
+- Google Imagens.
+- Foto pessoal.
+
+## Uso de IA
+
+Utilizei IA para me orientar no css para organização das mídias na página e receber algumas dicas sobre a organização das tags `<div>` e dos títulos `<h1>` e `<h2>`.
+
+## Testes realizados
+
+- Verifiquei se todos os links internos e externos direcionam para as páginas corretas.
